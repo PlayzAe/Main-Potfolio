@@ -1,4 +1,4 @@
-# George's Portfolio
+# Le Portfolio
 
 Welcome to the GitHub repository for my portfolio! This project is a collection of my work, showcasing my experience in C# backend development, web development, and motion graphics. It provides insight into the skills I've developed and the projects I've worked on.
 
